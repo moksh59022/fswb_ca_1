@@ -1,1 +1,1 @@
-neon-semifreddo-b92990.netlify.app
+netlify link  ->  neon-semifreddo-b92990.netlify.app
